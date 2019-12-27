@@ -5,7 +5,7 @@ The free book `Web Extensions for the builders`, by yours truly.
 Hello, I'm glad you found this project.
 
 This is an ambitious project I have on writing a book about WebExtensions. Extensions are an underrated feature in browsers
-that, in my opinion, could be better explored given proper education about how to create one. Right no,w the documents we rely
+that, in my opinion, could be better explored given proper education about how to create one. Right now the documents we rely
 on are the [MDN docs on WebExtensions](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions) and the [Chrome Extension API](https://developer.chrome.com/extensions/api_index) page, which I don't think are friendly for all the
 people interested in building browser extensions.
 
